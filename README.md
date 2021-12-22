@@ -19,4 +19,4 @@ There are two button on your leetcode navigation bar will be added after install
 After click [🔃Session] it will set the leetcode session to browser session, selected by [🖋️Session], and redirect the page.
 ### 2. 🖋️Session ( Set Browser Leetcode Session)
 Redirect to session selection page, and select one as the session of this browser.
-After select, [🔃Session] will set to your selection this time every time.
+After select, [🔃Session] will set to your selection every time.
