@@ -33,4 +33,6 @@ Click then change to browser session and submit code
 ### 1.1
 *   Show Session name on nav bar
 *   Force submit code by browser session (if the session chagne when you writting code)
+### 1.1.1
+*   Update location provided
   

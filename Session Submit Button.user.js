@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Session Submit Button
-// @namespace    http://tampermonkey.net/
+// @namespace    https://nawanae.github.io/Leetcode-Session-Browser-Binding/
 // @version      1.1
+// @namespace    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Submit Button.user.js
+// @updateURL    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Submit Button.user.js
 // @description  Force Submit Code by Browser Session
 // @author       NawaNawa
 // @match        https://leetcode.com/problems/*/

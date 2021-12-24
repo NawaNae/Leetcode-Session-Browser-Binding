@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Session Change
-// @namespace    http://tampermonkey.net/
+// @namespace    https://nawanae.github.io/Leetcode-Session-Browser-Binding/
 // @version      1.1
+// @namespace    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Change.user.js
+// @updateURL    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Change.user.js
 // @description  Change/Select browser session at Leetcode.com/session/
 // @author       NawaNawa
 // @match        https://leetcode.com/session/

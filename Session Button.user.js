@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Session Button
-// @namespace    http://tampermonkey.net/
+// @namespace    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Button.user.js
+// @updateURL    https://nawanae.github.io/Leetcode-Session-Browser-Binding/Session Button.user.js
+// @downloadURL 
 // @version      1.1
 // @description  Show session buttons in nav bar
 // @author       NawaNawa
