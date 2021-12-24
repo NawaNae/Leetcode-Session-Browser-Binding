@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Session Change
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.1
+// @description  Change/Select browser session at Leetcode.com/session/
 // @author       NawaNawa
 // @match        https://leetcode.com/session/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
